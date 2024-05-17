@@ -1,0 +1,4 @@
+https://bootstrapmade.com/demo/MyResume/
+
+https://getbootstrap.com/docs/4.5/examples/ <-- THESE ARE COMPONENETS OF A WEB PAGE NOT THE WHOLE THING
+https://www.codeinwp.com/blog/best-bootstrap-4-templates/ <-- WHOLE WEBPAGE EXAMPLES

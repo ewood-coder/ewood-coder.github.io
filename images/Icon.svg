@@ -1,0 +1,22 @@
+<svg width="570" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_15"/>
+  <g id="svg_18"/>
+  <g id="svg_24">
+   <g id="svg_25">
+    <g id="svg_26"/>
+   </g>
+  </g>
+  <g id="svg_28">
+   <ellipse cx="324.49999" cy="239.49998" fill="#aaff56" id="svg_10" rx="240.49999" ry="233.50002" stroke="#ffffff" stroke-width="0"/>
+   <ellipse cx="323.34377" cy="240.66749" fill="#b2b2b2" id="svg_13" rx="200.03123" ry="192.63752" stroke="#ffffff" stroke-width="0"/>
+   <rect fill="#000000" height="180.02282" id="svg_16" stroke="#ffffff" stroke-width="0" width="291.37499" x="178.81249" y="134.42497"/>
+   <rect fill="#aaff56" height="151.05363" id="svg_17" stroke="#ffffff" stroke-width="0" width="261.81521" x="193.59238" y="148.90956"/>
+   <rect fill="#000000" height="66.21529" id="svg_19" stroke="#ffffff" stroke-width="0" width="19.00272" x="313.94292" y="314.44779"/>
+   <rect fill="#000000" height="18.62305" id="svg_22" stroke="#ffffff" stroke-width="0" width="133.01902" x="255.02444" y="367.98194"/>
+   <text fill="#000000" font-family="serif" font-size="12" id="svg_27" stroke="#ffffff" stroke-width="0" text-anchor="middle" transform="matrix(9.71718 0 0 10.3803 -2750.7 -3325.2)" x="316.33177" xml:space="preserve" y="345.9773">Code</text>
+  </g>
+ </g>
+</svg>
