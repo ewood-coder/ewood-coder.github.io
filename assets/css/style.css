@@ -198,6 +198,15 @@ h6 {
 		display: none;
 		color: #fff;
 	}
+
+	.widthSection {
+		padding-left: 5em;
+		padding-right: 5em;
+	}
+
+	.educationBoxes {
+		width: 85%;
+	}
 }
 
 .nav-menu a:hover,
@@ -1338,5 +1347,5 @@ table tfoot {
 }
 
 .badge {
-	font-size: medium;
+	font-size: small;
 }
