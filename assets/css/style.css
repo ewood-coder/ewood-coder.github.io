@@ -521,6 +521,10 @@ section {
 	display: block;
 }
 
+.widthCard {
+	width: 18rem;
+}
+
 
 @media only screen and (max-width: 415px) {
 
